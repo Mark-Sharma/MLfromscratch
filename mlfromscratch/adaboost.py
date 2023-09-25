@@ -1,6 +1,6 @@
 import numpy as np
 
-
+# Comment
 # Decision stump used as weak classifier
 class DecisionStump:
     def __init__(self):
